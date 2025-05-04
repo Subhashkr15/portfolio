@@ -10,7 +10,8 @@ safelist: [
   "bg-[url('Images/blog-img.png')]",
   "bg-[url('Images/currency-img.png')]",
   "bg-[url('Images/watchPaglu.png')]",
-  "bg-[url('Images/amazon-img.png')]"
+  "bg-[url('Images/amazon-img.png')]",
+  " bg-[url('/Images/bgImage.jpeg')]"
 
 
   
