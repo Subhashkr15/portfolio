@@ -11,7 +11,7 @@ function Home() {
           Subhash Kumar
         </h1>
         <p className="text-[#fffbff] md:pt-9 pt-4 md:text-4xl text-xl font-mono">
-          Frontend Developer | Debugger
+          Frontend Developer | Passionate Coder
         </p>
       </div>
       <div className="md:max-h-130 md:max-w-130 h-80 w-80 mt-15 md:mt-0">
