@@ -9,7 +9,7 @@ function Projects() {
         <div className='h-auto w-full flex flex-wrap text-white justify-center mt-5 md:mt-10'>
 
             <Link to="https://blog-space-azure.vercel.app/">
-            <div className="h-80 w-80 md:w-150 md:h-80 border-2 border-gray-600 md:mt-3 md:mb-4 mx-3 m-2 rounded-4xl bg-[url('/Images/BlogSpace.png')]  bg-cover" >
+            <div className="h-80 w-80 md:w-150 md:h-80 border-2 border-gray-600 md:mt-3 md:mb-4 mx-3 m-2 rounded-4xl bg-[url('/Images/Blog-Space.png')]  bg-cover" >
               <p className='font-bold text-2xl flex justify-center '>Blog Space</p>
             </div>
             </Link>
