@@ -28,7 +28,7 @@ function About() {
           <button className="w-40 h-10 text-[18px] font-bold rounded-full text-[#ffffff]  mt-4 md:mt-8 md:mb-4 ml-2 cursor-pointer bg-gradient-to-r md:block hidden from-[#030124] to-[#b1a8d6]">
             More about me
           </button>
-          <Link to="https://drive.google.com/file/d/1icjzq_E9c8r8cklXQ1S77gOIoCVLsLm7/view?usp=sharing">
+          <Link to="https://drive.google.com/file/d/1vqSNISRLN1wv87Bii889lSzTHJSRoWjq/view?usp=sharing">
           <button className="w-40 h-10 text-[18px] font-bold rounded-full text-[#ffffff] md:hidden  mt-4 md:mt-10 mb-3 cursor-pointer bg-gradient-to-r from-[#030124] to-[#b1a8d6]">
             Download CV
           </button>
