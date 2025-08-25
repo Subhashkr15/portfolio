@@ -63,18 +63,18 @@ function Skills() {
         <div className="flex md:flex-row md:mr-[30px]  flex-wrap justify-between text-center h-auto w-30 md:h-100 md:w-100 mt-8 font-serif  md:mt-4">
           <div className=" md:mt-2 mt-[7px] border-t-cyan-950 border-r-cyan-950 border-b-cyan-950  border-pink-400 rounded-full 
            justify-center flex md:text-lg text-[12px] flex-nowrap md:h-45 h-25 w-25 md:w-45  border-4 md:border-9 
-       text-rose-900 items-center ">Communication 70%
+       text-rose-900 items-center ">Communication 80%
        </div>
        <div className="md:text-xl text-[12px] md:mt-2 mt-[4px] md:h-45  h-25 w-25 md:w-45  border-4 md:border-9  md:font-bold  border-pink-400 rounded-full border-t-cyan-950
         border-r-cyan-950 border-b-cyan-950  justify-center flex  
-       text-rose-900 items-center ">Creativity  <br/>  60%
+       text-rose-900 items-center ">Creativity  <br/>  80%
        </div>
        
        <div className="md:text-lg text-[12px] md:mt-2 mt-[4px] md:h-45  h-25 w-25 md:w-45  border-4 md:border-9  md:font-bold border-pink-400 rounded-full  justify-center border-t-cyan-950 border-r-cyan-950 border-b-cyan-950  flex text-xl 
-       text-rose-900 items-center  ">Problem Solving <br/> 60%
+       text-rose-900 items-center  ">Problem Solving <br/> 80%
        </div>
        <div className="md:text-xl text-[12px] md:mt-2 mt-[4px] md:h-45 h-25 w-25 md:w-45  border-4 md:border-9 md:font-bold border-pink-400 rounded-full  justify-center border-t-cyan-950 border-r-cyan-950 border-b-cyan-950  flex text-xl 
-       text-rose-900 items-center ">TeamWork <br/> 60%
+       text-rose-900 items-center ">TeamWork <br/> 80%
        </div>
         </div>
       </div>
